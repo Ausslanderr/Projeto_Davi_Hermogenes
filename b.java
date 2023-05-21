@@ -19,4 +19,7 @@ public class b {
     public void MB2(){
         System.out.println("Metodo MB2");
     }
+    public void MB3(){
+        System.out.println("Metodo MB3");
+    }
 }
