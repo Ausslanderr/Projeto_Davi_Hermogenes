@@ -7,7 +7,12 @@ public class d {
     public void MD2(){
         System.out.println("Atividade de Engenharia de Software");
     }
+
     public void MD3(){
         System.out.println("Metodo MD3");
+    }
+    public void MD4(){
+        System.out.println("Metodo MD4");
+
     }
 }
